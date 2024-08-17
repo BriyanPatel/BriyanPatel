@@ -18,7 +18,7 @@ I'm a passionate Web Developer with 4+ years of experience in building dynamic w
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **[Your Latest Project]**
+- 🔭 Currently working on: **Duolingo Clone**
 - 🌱 Learning: **GraphQL and Serverless Architectures**
 - 🥅 2024 Goals: Launch a [snacks business](#) that provides healthy yet tasty snacks
 - 💬 Ask me about: **Web Development, Tech Career Advice, or My Favorite Snacks**
