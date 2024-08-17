@@ -2,7 +2,8 @@
 # 👋 Hi, I'm Briyan Patel!
 
 <!-- Short Introduction -->
-I'm a passionate Web Developer with 4+ years of experience in building dynamic web applications using Node.js, React, and Next.js. I love creating clean, efficient, and user-friendly interfaces.
+I'm a passionate Web Developer with 4+ years of experience in building dynamic web applications using Node.js, React, and Next.js. 
+I love creating clean, efficient, and user-friendly interfaces.
 
 <!-- GIF or Image -->
 ![Developer at work](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
