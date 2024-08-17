@@ -34,9 +34,9 @@ I love creating clean, efficient, and user-friendly interfaces.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
+![Briyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriyanPatel&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BriyanPatel&layout=compact&theme=radical&count_private=true&token=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)
 
-![Briyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriyanPatel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BriyanPatel&layout=compact&theme=radical)
 
 <!-- Fun Fact or Quote -->
 ## 🎉 Fun Fact
