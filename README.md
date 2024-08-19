@@ -1,48 +1,65 @@
-<!-- Title -->
 # 👋 Hi, I'm Briyan Patel!
 
-<!-- Short Introduction -->
-I'm a passionate Web Developer with 4+ years of experience in building dynamic web applications using Node.js, React, and Next.js. 
-I love creating clean, efficient, and user-friendly interfaces.
+**Web Developer | JavaScript Enthusiast | Tech Explorer**
 
-<!-- GIF or Image -->
-![Developer at work](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-<!-- Key Skills -->
-## 🚀 Skills & Technologies
+---
+
+### 🚀 About Me
+
+I'm a passionate Web Developer with 4+ years of experience in building dynamic, responsive, and user-friendly web applications. My expertise lies in crafting seamless front-end experiences with React and Next.js, coupled with robust back-end solutions using Node.js and Express.
+
+- 🔭 **Current Project:** Building a **Duolingo Clone** to refine my skills and explore new technologies.
+- 🌱 **Learning:** Exploring **GraphQL** and **Serverless Architectures** to stay ahead of the curve in modern web development.
+- 💼 **Professional Goal:** To become an expert in full-stack development with a focus on scalable, cloud-based solutions.
+
+### 🛠️ Skills & Technologies
+
+![Tools GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 - **Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript
 - **Backend:** Node.js, Express, REST APIs
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, Jenkins, AWS, Heroku
+- **Other Interests:** Exploring microservices, TDD, CI/CD pipelines
 
-<!-- About Me Section -->
-## 👨‍💻 About Me
+### 🌟 My Work Ethic
 
-- 🔭 Currently working on: **Duolingo Clone**
-- 🌱 Learning: **GraphQL and Serverless Architectures**
-- 🥅 2024 Goals: Launch a [snacks business](#) that provides healthy yet tasty snacks
-- 💬 Ask me about: **Web Development, Tech Career Advice, or My Favorite Snacks**
+![Work Ethic GIF](https://media.giphy.com/media/1n2nIlLsG5Rfq/giphy.gif)
 
-<!-- Portfolio Links -->
-## 🌐 Connect with Me
+I believe in writing clean, modular, and well-documented code. My approach to development is heavily influenced by best practices and continuous learning. I’m always open to feedback and enjoy collaborating with other developers to solve challenging problems.
 
+### 🔗 Connect with Me
+
+![Connect GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+
+- **Phone:** +1 (123) 456-7890
+- **Email:** briyan.patel@example.com
 - **Website:** [briyanpatel.dev](https://yourwebsite.com)
 - **LinkedIn:** [Briyan Patel](https://linkedin.com/in/briyanpatel)
 - **Twitter:** [@briyan_dev](https://twitter.com/yourhandle)
 - **GitHub:** [BriyanPatel](https://github.com/BriyanPatel)
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+### 📈 GitHub Stats
+
 ![Briyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriyanPatel&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BriyanPatel&layout=compact&theme=radical&count_private=true&token=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)
 
+### 📚 My Favorite Projects
 
-<!-- Fun Fact or Quote -->
-## 🎉 Fun Fact
+![Projects GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-When I'm not coding, you can find me experimenting with new snack recipes or binging on sci-fi movies! 🍿
+- **[Duolingo Clone](#):** A full-stack project replicating the Duolingo app’s core functionality.
+- **[DataViz Dashboard](#):** A fintech dashboard for visualizing complex financial data.
+- **[E-commerce Platform](#):** A scalable e-commerce platform built with React and Node.js.
 
-<!-- Footer -->
+### 📧 Let's Collaborate!
+
+![Collaborate GIF](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
+
+I'm always open to new opportunities and collaborations. If you're interested in working together on something exciting, feel free to reach out!
+
 ---
+
 ⭐️ From [Briyan Patel](https://github.com/BriyanPatel)
