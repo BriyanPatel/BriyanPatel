@@ -26,13 +26,12 @@ I'm a passionate Web Developer with 4+ years of experience in building dynamic, 
 
 ### 🌟 My Work Ethic
 
-![Focus GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 I believe in writing clean, modular, and well-documented code. My approach to development is heavily influenced by best practices and continuous learning. I’m always open to feedback and enjoy collaborating with other developers to solve challenging problems.
 
 ### 🔗 Connect with Me
 
-![Networking GIF](https://media.giphy.com/media/13r7k3Vz6k8KYM/giphy.gif)
+![Focus GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 - **Phone:** +1 (123) 456-7890
 - **Email:** briyan.patel@example.com
