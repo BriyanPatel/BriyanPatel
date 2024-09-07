@@ -35,7 +35,7 @@ I believe in writing clean, modular, and well-documented code. My approach to de
 
 - **Phone:** +91 7984998922
 - **Email:** briyanhingarajiya14@gmail.com
-- **Website:** [Portfolio](https://briyan-portfolio.netlify.app)
+- **Website:** [Portfolio](https://briyan-portfoilio.netlify.app/)
 - **GitHub:** [BriyanPatel](https://github.com/BriyanPatel)
 
 ### 📈 GitHub Stats
