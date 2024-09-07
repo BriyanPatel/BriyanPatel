@@ -33,11 +33,9 @@ I believe in writing clean, modular, and well-documented code. My approach to de
 
 ![Focus GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-- **Phone:** +1 (123) 456-7890
-- **Email:** briyan.patel@example.com
-- **Website:** [briyanpatel.dev](https://yourwebsite.com)
-- **LinkedIn:** [Briyan Patel](https://linkedin.com/in/briyanpatel)
-- **Twitter:** [@briyan_dev](https://twitter.com/yourhandle)
+- **Phone:** +91 7984998922
+- **Email:** briyanhingarajiya14@gmail.com
+- **Website:** [Portfolio](https://briyan-portfolio.netlify.app)
 - **GitHub:** [BriyanPatel](https://github.com/BriyanPatel)
 
 ### 📈 GitHub Stats
