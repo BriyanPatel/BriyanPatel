@@ -1,62 +1,69 @@
 # 👋 Hi, I'm Briyan Patel!
 
-**Web Developer | JavaScript Enthusiast | Tech Explorer**
+**Web Developer | JavaScript Enthusiast | Tech Innovator**
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate Web Developer with 4+ years of experience in building dynamic, responsive, and user-friendly web applications. My expertise lies in crafting seamless front-end experiences with React and Next.js, coupled with robust back-end solutions using Node.js and Express.
+I’m a **passionate Web Developer** with over **4 years of experience** building sleek, dynamic, and **user-focused web applications**. My mission is to create digital experiences that are both engaging and functional, leveraging my expertise in **React**, **Next.js**, and **Node.js** to bring innovative ideas to life.
 
-- 🔭 **Current Project:** Building a **Duolingo Clone** to refine my skills and explore new technologies.
-- 🌱 **Learning:** Exploring **GraphQL** and **Serverless Architectures** to stay ahead of the curve in modern web development.
-- 💼 **Professional Goal:** To become an expert in full-stack development with a focus on scalable, cloud-based solutions.
+- 🔭 **Current Project:** Crafting a **Duolingo Clone** to sharpen my full-stack development skills and experiment with cutting-edge technologies.
+- 🌱 **Learning:** Delving into **GraphQL** and **Serverless Architectures** to enhance my skill set in **scalable web development**.
+- 💼 **Professional Goal:** To master **full-stack development**, with a focus on **cloud-native solutions** that scale effortlessly.
 
-### 🛠️ Skills & Technologies
+### 🛠️ My Toolkit
 
-![Tools GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
-- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3
 - **Backend:** Node.js, Express, REST APIs
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools & Platforms:** Git, Docker, Jenkins, AWS, Heroku
-- **Other Interests:** Exploring microservices, TDD, CI/CD pipelines
-
-### 🌟 My Work Ethic
-
-
-I believe in writing clean, modular, and well-documented code. My approach to development is heavily influenced by best practices and continuous learning. I’m always open to feedback and enjoy collaborating with other developers to solve challenging problems.
-
-### 🔗 Connect with Me
-
-![Focus GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
-- **Phone:** +91 7984998922
-- **Email:** briyanhingarajiya14@gmail.com
-- **Website:** [Portfolio](https://briyan-portfoilio.netlify.app/)
-- **GitHub:** [BriyanPatel](https://github.com/BriyanPatel)
-
-### 📈 GitHub Stats
-
-![Briyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriyanPatel&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BriyanPatel&layout=compact&theme=radical&count_private=true&token=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)
-
-### 📚 My Favorite Projects
-
-![Projects GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-- **[Duolingo Clone](#):** A full-stack project replicating the Duolingo app’s core functionality.
-- **[DataViz Dashboard](#):** A fintech dashboard for visualizing complex financial data.
-- **[E-commerce Platform](#):** A scalable e-commerce platform built with React and Node.js.
-
-### 📧 Let's Collaborate!
-
-![Collaborate GIF](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
-
-I'm always open to new opportunities and collaborations. If you're interested in working together on something exciting, feel free to reach out!
+- **DevOps & Tools:** Git, Docker, Jenkins, AWS, Heroku
+- **Exploring:** GraphQL, Microservices, TDD, CI/CD Pipelines
 
 ---
 
-⭐️ From [Briyan Patel](https
+### 🌟 Work Ethic & Philosophy
+
+I believe in **clean, modular, and maintainable code**. My focus is on **best practices**, **collaboration**, and a commitment to **continuous improvement**. I thrive in environments that challenge me and push me to grow both technically and personally.
+
+---
+
+### 📈 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriyanPatel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BriyanPatel&layout=compact&theme=radical)
+
+---
+
+### 📚 Featured Projects
+
+![Projects](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+- **[Duolingo Clone](#):** A full-stack project that mimics Duolingo’s gamified language-learning experience.
+- **[DataViz Dashboard](#):** A real-time dashboard visualizing financial data with D3.js and React.
+- **[E-commerce Platform](#):** A scalable e-commerce solution, built using React, Node.js, and Stripe integration.
+
+---
+
+### 💬 Let's Connect
+
+![Connect](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+- 📞 **Phone:** +91 7984998922
+- 📧 **Email:** briyanhingarajiya14@gmail.com
+- 🌐 **Portfolio:** [Check Out My Work](https://briyan-portfoilio.netlify.app/)
+- 💻 **GitHub:** [Explore My Code](https://github.com/BriyanPatel)
+
+---
+
+### 🤝 Let's Collaborate!
+
+![Collaborate](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
+
+I'm always excited to collaborate on **innovative projects** and solve **challenging problems**. Whether it’s contributing to open source, building something impactful, or exploring new technologies, I’m ready to team up! Let's create something amazing together.
+
+⭐️ From [Briyan Patel](https://briyan-portfoilio.netlify.app/)
