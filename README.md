@@ -1,19 +1,17 @@
-# 👋 Hi, I'm **Briyan Patel**  
+# 👋 Hi, I'm **Briyan Patel**
 **Web Developer | JavaScript Enthusiast | Tech Innovator**  
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
 
----
-
-![Status: Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=flat-square)  
-![JavaScript Lover](https://img.shields.io/badge/JavaScript-Lover-yellow?style=flat-square)  
-![React Enthusiast](https://img.shields.io/badge/React-Enthusiast-blue?style=flat-square)  
-![Next.js Developer](https://img.shields.io/badge/Next.js-Developer-black?style=flat-square)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Fan-blue?style=flat-square)  
-![Portfolio Visits](https://img.shields.io/badge/Portfolio-Visit_Now-brightgreen?style=flat-square)  
+[![React Enthusiast](https://img.shields.io/badge/React-Enthusiast-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+[![Next.js Developer](https://img.shields.io/badge/Next.js-Developer-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)  
+[![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaborate-00A859?style=for-the-badge&logo=Handshake&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://briyan-portfoilio.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BriyanPatel)  
 
 ---
 
-## 🚀 **About Me**  
+## 🚀 **About Me**
 I'm a **Web Developer** with over **4 years of experience**, creating dynamic, user-focused, and visually stunning web applications. My expertise lies in **React**, **Next.js**, and **Node.js**, and I thrive on delivering scalable and impactful solutions.  
 
 - 🔭 **Current Project:** Building a **Duolingo Clone** to sharpen full-stack skills.  
@@ -24,65 +22,57 @@ I'm a **Web Developer** with over **4 years of experience**, creating dynamic, u
 
 ## 🛠️ **Tech Stack**  
 
-### 🎨 **Frontend Development**  
+### 🎨 **Frontend Development**
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
 - **Frameworks & Libraries:** React.js, Next.js, Vue.js  
 - **Styling Tools:** Tailwind CSS, Sass, Styled-Components  
 - **State Management:** Redux, Context API, Zustand  
 - **UI Frameworks:** Material-UI, Chakra UI, Ant Design  
 
-### ⚙️ **Backend Development**  
+### ⚙️ **Backend Development**
 - **Runtime & Frameworks:** Node.js, Express.js, NestJS, FastAPI  
 - **API Technologies:** REST, GraphQL, WebSockets  
 - **Authentication:** JWT, OAuth, Passport.js  
 
-### 🗄️ **Database & Storage**  
+### 🗄️ **Database & Storage**
 - **Relational Databases:** PostgreSQL, MySQL  
 - **NoSQL Databases:** MongoDB, Redis  
 - **ORMs:** Prisma, Sequelize, Mongoose  
 
-### ☁️ **DevOps & Cloud**  
+### ☁️ **DevOps & Cloud**
 - **Version Control:** Git, GitHub  
 - **Containerization:** Docker, Kubernetes  
 - **CI/CD:** GitHub Actions, Jenkins  
 - **Cloud Platforms:** AWS, Vercel, Heroku  
 - **Monitoring Tools:** Sentry, New Relic  
 
-### 🛡️ **Testing & Quality**  
+### 🛡️ **Testing & Quality**
 - **Testing Frameworks:** Jest, Cypress, React Testing Library  
 - **Code Quality:** ESLint, Prettier, Husky  
 
 ---
 
-## 🌟 **Work Ethic & Philosophy**  
+## 🌟 **Work Ethic & Philosophy**
 I focus on **clean, modular, and maintainable code** with a strong emphasis on **best practices**. I'm dedicated to continuous learning and thrive in collaborative environments where I can make a meaningful impact.  
 
 ---
 
-## 📚 **Featured Projects**  
-
-### 🌍 **Duolingo Clone**  
-- A full-stack project mimicking Duolingo's gamified learning experience.  
-
-### 📊 **DataViz Dashboard**  
-- A real-time dashboard visualizing financial data using **D3.js** and **React**.  
-
-### 🛒 **E-Commerce Platform**  
-- A scalable solution built with **React**, **Node.js**, and **Stripe integration**.  
+## 📚 **Featured Projects**
+- 🌍 **Duolingo Clone:** A full-stack project mimicking Duolingo's gamified learning experience.  
+- 📊 **DataViz Dashboard:** A real-time dashboard visualizing financial data using **D3.js** and **React**.  
+- 🛒 **E-Commerce Platform:** A scalable solution built with **React**, **Node.js**, and **Stripe integration**.  
 
 ---
 
-## 💬 **Get In Touch**  
-
-![Contact](https://img.shields.io/badge/Contact-Briyan_Patel-blue?style=flat-square)  
+## 💬 **Get In Touch**
 - 📞 **Phone:** +91 **8320232624**  
 - 📧 **Email:** briyanhingarajiya14@gmail.com  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://briyan-portfoilio.netlify.app/)  
-- 💻 **GitHub:** [Check Out My Code](https://github.com/BriyanPatel)  
+- 💻 **GitHub:** [Explore My Code](https://github.com/BriyanPatel)  
 
 ---
 
-## 🤝 **Let's Collaborate**  
+## 🤝 **Let's Collaborate**
 I'm always open to collaborating on **innovative projects** or brainstorming solutions to **challenging problems**. Whether it’s open-source contributions or building impactful products, let’s create something amazing together!  
 
 ⭐️ From [**Briyan Patel**](https://briyan-portfoilio.netlify.app/)  
