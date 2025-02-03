@@ -18,7 +18,7 @@
 ## 🚀 **About Me**
 I'm a **passionate Web Developer** with over **4 years of experience**, specializing in building dynamic, user-focused, and sleek web applications. My expertise lies in **React**, **Next.js**, and **Node.js**, and I love crafting solutions that are both innovative and scalable.
 
-- 🔭 **Current Project:** Building a **Duolingo Clone** to sharpen full-stack skills.  
+- 🔭 **Current Project:** Building a **apispell-cli**.  
 - 🌱 **Learning:** Exploring **GraphQL** and **Serverless Architectures** for scalable development.  
 - 💼 **Goal:** Master **cloud-native full-stack development** and make an impact.  
 
