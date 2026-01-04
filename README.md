@@ -75,12 +75,12 @@ I'm a **passionate Web Developer** with over **4 years of experience**, speciali
 ---
 
 ## 💬 **Get in Touch**
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briyanhingarajiya14@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A859?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://briyan-portfoilio.netlify.app/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hingarajiyabriyan14@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00A859?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://devbybriyan.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BriyanPatel)  
 
 📞 **Phone:** +91 **8320232624**  
 
 ---
 
-⭐️ From [**Briyan Patel**](https://briyan-portfoilio.netlify.app/)
+⭐️ From [**Briyan Patel**](https://devbybriyan.com)
