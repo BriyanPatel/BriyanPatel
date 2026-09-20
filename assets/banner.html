@@ -1,0 +1,109 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  :root{
+    --bg:#0B0E14; --ink:#E9EEF6; --dim:#6B7688; --accent:#22c55e;
+  }
+  html,body{ width:1200px; height:300px; overflow:hidden; background:var(--bg); }
+  body{
+    font-family:"Inter Display","Inter 18pt",-apple-system,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    display:flex; align-items:center; justify-content:center;
+    position:relative;
+  }
+  /* fine grid, fading to the edges */
+  .grid{
+    position:absolute; inset:0;
+    background-image:
+      linear-gradient(to right, rgba(255,255,255,.028) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255,255,255,.028) 1px, transparent 1px);
+    background-size:56px 56px;
+    -webkit-mask-image:radial-gradient(ellipse 66% 86% at 50% 50%, #000 8%, rgba(0,0,0,.6) 45%, transparent 82%);
+  }
+  /* accent glow behind the name */
+  .glow{
+    position:absolute; left:50%; top:44%; transform:translate(-50%,-50%);
+    width:760px; height:260px; border-radius:50%;
+    background:radial-gradient(ellipse at center, rgba(34,197,94,.20), rgba(34,197,94,.05) 45%, transparent 70%);
+    filter:blur(6px);
+  }
+  .vignette{ position:absolute; inset:0;
+    background:radial-gradient(ellipse 80% 90% at 50% 50%, transparent 40%, rgba(0,0,0,.55)); }
+
+  .wrap{ position:relative; text-align:center; z-index:2; }
+
+  .name{
+    font-weight:900; font-size:70px; line-height:1;
+    letter-spacing:-.035em; color:var(--ink);
+    position:relative; display:inline-block;
+    background-image:linear-gradient(100deg,
+      var(--ink) 0%, var(--ink) 38%, #ffffff 48%, var(--ink) 58%, var(--ink) 100%);
+    background-size:300% 100%;
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .rule{
+    width:92px; height:2px; margin:20px auto 0;
+    background:linear-gradient(to right, transparent, var(--accent), transparent);
+    opacity:.85;
+  }
+  .role{
+    margin-top:18px; font-family:"SF Mono",Menlo,ui-monospace,monospace;
+    font-size:21px; letter-spacing:.01em; color:var(--dim);
+    display:flex; align-items:center; justify-content:center; gap:10px;
+    height:26px;
+  }
+  .prompt{ color:var(--accent); }
+  .typed{ color:#AEB9CB; }
+  .cursor{
+    display:inline-block; width:9px; height:20px; translate:0 2px;
+    background:var(--accent);
+  }
+  .stack{
+    margin-top:26px; font-family:"SF Mono",Menlo,ui-monospace,monospace;
+    font-size:12px; letter-spacing:.22em; color:#5A6980;
+  }
+  .stack b{ color:#66748A; font-weight:400; }
+</style></head>
+<body>
+  <div class="grid"></div><div class="glow"></div><div class="vignette"></div>
+  <div class="wrap">
+    <div class="name" id="name">BRIYAN PATEL</div>
+    <div class="rule"></div>
+    <div class="role"><span class="prompt">&rsaquo;</span><span class="typed" id="typed"></span><span class="cursor" id="cursor"></span></div>
+    <div class="stack"><b>TYPESCRIPT</b> &nbsp;·&nbsp; <b>NODE</b> &nbsp;·&nbsp; <b>NEXT.JS</b> &nbsp;·&nbsp; <b>POSTGRES</b> &nbsp;·&nbsp; <b>GEN&nbsp;AI</b></div>
+  </div>
+<script>
+  const DUR = 8.0;                       // seamless loop length, seconds
+  const ROLES = ["full-stack developer","backend engineer","gen ai developer"];
+  const SLOT = DUR / ROLES.length;       // 2.666s per role
+  const TYPE = 0.80, HOLD = 1.10, DEL = 0.45;   // sums under SLOT, rest is pause
+
+  const typedEl = document.getElementById("typed");
+  const cursorEl = document.getElementById("cursor");
+  const nameEl = document.getElementById("name");
+
+  function seek(t){
+    t = ((t % DUR) + DUR) % DUR;
+
+    // typing cycle
+    const i = Math.floor(t / SLOT), local = t - i * SLOT;
+    const word = ROLES[i % ROLES.length];
+    let n;
+    if (local < TYPE)                      n = Math.round(word.length * (local / TYPE));
+    else if (local < TYPE + HOLD)          n = word.length;
+    else if (local < TYPE + HOLD + DEL)    n = Math.round(word.length * (1 - (local - TYPE - HOLD) / DEL));
+    else                                   n = 0;
+    typedEl.textContent = word.slice(0, n);
+
+    // cursor: solid while typing/deleting, blinking (2Hz, divides the loop) while idle
+    const moving = local < TYPE || (local >= TYPE + HOLD && local < TYPE + HOLD + DEL);
+    cursorEl.style.opacity = moving ? 1 : (Math.floor(t * 2) % 2 ? 0.08 : 1);
+
+    // one sheen sweep across the name per loop
+    const s = (t % DUR) / DUR;
+    const p = s < 0.42 ? (s / 0.42) : 1;   // sweep in the first 42%, then park off-screen
+    nameEl.style.backgroundPosition = (140 - p * 240) + "% 50%";
+  }
+  window.seek = seek; seek(0);
+</script>
+</body></html>
