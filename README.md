@@ -22,22 +22,27 @@ cases nobody screenshots.
 ## whoami
 
 ```bash
-> name:       Briyan Patel
-> location:   Ahmedabad, India
-> role:       Full-Stack · Backend · Gen AI Developer
-> stack:      TypeScript · Node.js · React · Next.js · PostgreSQL
-> focus:      shipping products and dev tooling that save real time
+> name:      Briyan Patel
+> location:  Ahmedabad, India
+> role:      Full-Stack · Backend · Gen AI
+> stack:     TypeScript · Node · Next.js · Postgres
+> focus:     products and dev tooling that save real time
 ```
 
 <br />
 
 ## What I build
 
-| | |
-|:--|:--|
-| **Backend & APIs** | TypeScript and Node services, Postgres schema design with Drizzle, authentication, background jobs, third-party integrations, and the boring reliability work: validation, error handling, logging, migrations. |
-| **Full-stack products** | Next.js App Router front to back — server actions, data layer, and interfaces built to be used daily rather than demoed once. |
-| **Gen AI in production** | LLMs inside real APIs: streaming responses, context management, structured outputs, tool calling, RAG pipelines and agents — with evaluation, so quality is measured instead of assumed. |
+**Backend & APIs** — TypeScript and Node services, Postgres schema design with
+Drizzle, authentication, background jobs, third-party integrations, and the
+boring reliability work: validation, error handling, logging, migrations.
+
+**Full-stack products** — Next.js App Router front to back: server actions, data
+layer, and interfaces built to be used daily rather than demoed once.
+
+**Gen AI in production** — LLMs inside real APIs: streaming responses, context
+management, structured outputs, tool calling, RAG pipelines and agents — with
+evaluation, so quality is measured instead of assumed.
 
 <br />
 
